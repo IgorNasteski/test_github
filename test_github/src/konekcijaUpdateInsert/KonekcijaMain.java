@@ -8,6 +8,7 @@ public class KonekcijaMain {
 		// TODO Auto-generated method stub
 		
 		MetodeJdbc.insertUpdateIliDelete_Baza();
+		System.out.println("Dodata nova linija koda za git");
 		
 	}
 
